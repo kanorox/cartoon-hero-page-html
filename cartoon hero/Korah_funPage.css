@@ -1,0 +1,28 @@
+body{ background-color:rgb(38, 56, 73) ;
+margin:0px;
+font-size: 24px;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+
+text-align: center;}
+header img{ border-radius:224px;
+    border: 18px solid white;
+
+}
+
+main{max-width: 800px;
+text-align:left;}
+
+main img{
+     padding: 16px 194px
+     
+ }
+
+ h2 ,p{ 
+    color: thistle;
+}
+ li{ color: white;}
+a{color:thistle}
+a:hover{color: white;}
